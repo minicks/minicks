@@ -8,9 +8,11 @@ I'm studying programming at **SSAFY** 6th.
 
 ## :computer: Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
 
 
 
+<hr>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
