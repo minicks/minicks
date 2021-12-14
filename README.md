@@ -36,7 +36,8 @@ I'm studying programming at **SSAFY** 6th.
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
 
 
-  
+## :mag: Contact
+[<img src="https://img.shields.io/badge/092E20?style=flat-square&logo=&logoColor=white"/></a>](https://h-study.tistory.com/)
   
   
 <!--
