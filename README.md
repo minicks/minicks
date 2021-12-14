@@ -2,7 +2,7 @@
 
 I studied Mathmatics.
 
-I'm studying programming at **SSAFY** 6th.
+I'm studying programming at **SSAFY** 6th since 2020.07.07.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
