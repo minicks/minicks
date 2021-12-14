@@ -4,6 +4,9 @@ I studied Mathmatics.
 
 I'm studying programming at **SSAFY** 6th.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
 ## :computer: Tech Stack
@@ -26,10 +29,6 @@ I'm studying programming at **SSAFY** 6th.
 
 
 <hr>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
