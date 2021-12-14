@@ -32,10 +32,10 @@ I'm studying programming at **SSAFY** 6th.
 
 <hr>
 ## :mag: Solved.ac Level
-
+<div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
-
+</div>
 
 ## :mag: Contact
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
