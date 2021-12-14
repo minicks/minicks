@@ -3,10 +3,10 @@
 I studied Mathmatics.
 
 I'm studying programming at **SSAFY** 6th.
-<div>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<\div>
+
 <hr>
 
 ## :computer: Tech Stack
@@ -25,7 +25,9 @@ I'm studying programming at **SSAFY** 6th.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-
+#### in Dataanalysis Project
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 
 <hr>
