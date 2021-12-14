@@ -14,7 +14,8 @@ I'm studying programming at **SSAFY** 6th.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
 
   
   
