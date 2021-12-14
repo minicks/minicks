@@ -9,12 +9,13 @@ I'm studying programming at **SSAFY** 6th.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
-<span>
+<div>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+</div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
+
   
   
   
