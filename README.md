@@ -3,9 +3,9 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={xorbs578})](https://solved.ac/{xorbs578})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={xorbs578})](https://solved.ac/{xorbs578})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
 
 
 <!--
