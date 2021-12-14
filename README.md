@@ -37,7 +37,7 @@ I'm studying programming at **SSAFY** 6th.
 
 
 ## :mag: Contact
-[<img src="https://img.shields.io/badge/092E20?style=flat-square&logo=&logoColor=white"/></a>](https://h-study.tistory.com/)
+[<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Tistory&logoColor=white"/></a>](https://h-study.tistory.com/)
   
   
 <!--
