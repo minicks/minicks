@@ -32,7 +32,6 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 
 <hr>
-#
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
@@ -42,7 +41,13 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 ## :mag: Contact
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
   
-  
+<hr>
+## Repositories
+[알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
+[알고리즘 공부](https://github.com/minicks/-Algorithm_Study)
+[CS 스터디](https://github.com/minicks/cs_pulzo)
+[딥러닝 공부](https://github.com/minicks/Deeplearning)
+[데이터 사이언스 스쿨 - 데이터분석](https://github.com/minicks/Datascience__school)
   
   
   
