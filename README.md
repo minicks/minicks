@@ -38,11 +38,6 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 <hr>
 
-## :mag: Contact
-[<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
-  
-<hr>
-
 ## Repositories
 
 [알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
@@ -55,6 +50,10 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [데이터 사이언스 스쿨 - 데이터분석](https://github.com/minicks/Datascience__school)
   
+<hr>
+
+## :mag: Contact
+[<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
   
   
 <!--
