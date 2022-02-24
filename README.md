@@ -32,6 +32,8 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 ## Repositories
 
+[SSAFY 공통 프로젝트 Edula](https://github.com/minicks/Edula)
+
 [알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
 
 [알고리즘 공부](https://github.com/minicks/-Algorithm_Study)
@@ -46,7 +48,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 ## :mag: Contact
 ### 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 
-<br>
+
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/)
  
 
