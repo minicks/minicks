@@ -7,24 +7,23 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <hr>
 
 ## :computer: Tech Stack
-### :man: High
-### :boy: Middle
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-### :baby: low
+
+### Main
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoWidth=30&logo=MySQL&logoColor=white"/></a>
 #### in SSAFY
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white&logoWidth=40"/></a>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoWidth=30&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoWidth=30&logo=CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logoWidth=30&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoWidth=30&logo=Vue.js&logoColor=white"/></a>
 #### in Blockchain Project
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-forthebage&logo=Solidity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoWidth=30&logo=Go&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logoWidth=30&logo=Solidity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoWidth=30&logo=React&logoColor=white"/></a>
 #### in Dataanalysis Project
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logoWidth=30&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
 
 
 <hr>
@@ -49,7 +48,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <hr>
 
 ## :mag: Contact
-- 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이
+- 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 <br>
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
  
 <hr>
