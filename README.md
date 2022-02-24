@@ -28,12 +28,6 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logoWidth=30&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
 
-
-<hr>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578)
-
 <hr>
 
 ## Repositories
@@ -51,16 +45,25 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <hr>
 
 ## :mag: Contact
-- 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 
+### 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 
 <br>
-
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/)
  
+
+
+<hr>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578) 
+
 <hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+
+
+
 <!--
 **minicks/minicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
