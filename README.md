@@ -1,11 +1,13 @@
+<br>
+
 ### Hi there 👋
 
 I studied Mathmatics.
 
 I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
-<br>
 <hr>
+<br>
 
 ## :computer: Tech Stack
 
@@ -29,8 +31,8 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logoWidth=30&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
 
-<br>
 <hr>
+<br>
 
 ## Repositories
 
@@ -46,25 +48,24 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [데이터 사이언스 스쿨 - 데이터분석](https://github.com/minicks/Datascience__school)
 
-<br>
 <hr>
+<br>
 
 ## :mag: Contact
 #### 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 
 
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/)
  
-
-<br>
 <hr>
+<br>
 
 #### 백준
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578) 
 
-<br>
 <hr>
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
