@@ -3,10 +3,6 @@
 I studied Mathmatics.
 
 I'm studying programming at **SSAFY** 6th since 2021.07.07.
-<hr>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -24,7 +20,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 #### in Blockchain Project
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-forthebage&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 #### in Dataanalysis Project
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
@@ -53,8 +49,13 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <hr>
 
 ## :mag: Contact
+- 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=flat-square"/></a>](https://h-study.tistory.com/)
-  
+ 
+<hr>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minicks)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **minicks/minicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
