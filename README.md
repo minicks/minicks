@@ -57,7 +57,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [CS 스터디](https://github.com/minicks/cs_pulzo)
 
-[CS 공부](https://github.com/minicks/Edula)
+CS 공부
 
 [딥러닝 공부](https://github.com/minicks/Deeplearning)
 
