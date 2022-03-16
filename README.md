@@ -39,7 +39,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <hr>
 <br>
 
-## Repositories
+## 📚 Repositories
 
 [SSAFY 공통 프로젝트 Edula](https://github.com/minicks/Edula)
 
@@ -66,7 +66,7 @@ CS 공부
 <hr>
 <br>
 
-#### 백준
+## ⌨ 백준
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorbs578)](https://solved.ac/xorbs578) 
