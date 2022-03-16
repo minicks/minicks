@@ -15,25 +15,25 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
 
-#### in SSAFY
+### in SSAFY
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logoWidth=30&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoWidth=30&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoWidth=30&logo=HTML&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoWidth=30&logo=CSS&logoColor=white"/></a>
-##### 공통 프로젝트 - (WebRTC를 이용한 비대면 학습 플랫폼 Edula)
+#### 공통 프로젝트 - (WebRTC를 이용한 비대면 학습 플랫폼 Edula)
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
-##### 특화 프로젝트 - (이미지 캡셔닝을 활용한 일기 작성 )
+#### 특화 프로젝트 - (이미지 캡셔닝을 활용한 일기 작성 )
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
 
-#### in Blockchain Project
+### in Blockchain Project
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoWidth=30&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logoWidth=30&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoWidth=30&logo=React&logoColor=white"/></a>
 
-#### in Dataanalysis Project
+### in Data analysis Project
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logoWidth=30&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
