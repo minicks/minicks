@@ -26,7 +26,7 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 ##### 특화 프로젝트 - (이미지 캡셔닝을 활용한 일기 작성 )
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-23FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logoWidth=30&logo=TensorFlow&logoColor=white"/></a>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
