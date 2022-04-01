@@ -16,6 +16,11 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
 
+<hr>
+<br>
+
+## :book: Experience
+
 ### in SSAFY
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logoWidth=30&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoWidth=30&logo=Django&logoColor=white"/></a>
