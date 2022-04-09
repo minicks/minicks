@@ -56,6 +56,8 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [SSAFY 공통 프로젝트 Edula](https://github.com/minicks/Edula)
 
+[SSAFY 특화 프로젝트 비화](https://github.com/minicks/FlowerDiary)
+
 [알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
 
 [알고리즘 공부](https://github.com/minicks/-Algorithm_Study)
