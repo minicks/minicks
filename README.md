@@ -1,14 +1,18 @@
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminicks&count_bg=%23375CE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## ✋ Introduce
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&logoWidth=30)](https://minick.notion.site/4fbbc096b0ee437aaa793d27c6fcfd54)
+[<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/)
 ### Hi 👋
 
 I studied Mathmatics and BigData.
 
 I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
-Notion
-https://minick.notion.site/4fbbc096b0ee437aaa793d27c6fcfd54
+
+
 
 <hr>
 <br>
@@ -77,9 +81,8 @@ CS 공부
 <br>
 
 ## :mag: Contact
-#### 티스토리 : CS, 데이터 분석, AI 등 이론 정리 및 알고리즘 풀이 
 
-[<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/)
+
  
 <hr>
 <br>
