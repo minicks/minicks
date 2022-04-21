@@ -5,8 +5,6 @@
 ## ✋ Introduce
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&logoWidth=30)](https://minick.notion.site/4fbbc096b0ee437aaa793d27c6fcfd54) - 포트폴리오
 
-<br>
-
 [<img src="https://img.shields.io/badge/Tistory-092E20?style=for-the-badge&logoWidth=30"/></a>](https://h-study.tistory.com/) - 티스토리 블로그(알고리즘, cs, 코딩테스트)
 
 ### Hi 👋
