@@ -90,7 +90,7 @@ CS 공부
 #### 책
 [딥러닝 공부](https://github.com/minicks/Deeplearning)
 
-1일 1로그 100일 완성 IT 
+[1일 1로그 100일 완성 IT](https://github.com/minicks/1day1log) 
 
 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 
