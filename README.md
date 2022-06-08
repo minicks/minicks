@@ -75,6 +75,8 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [SSAFY 특화 프로젝트 비화](https://github.com/minicks/FlowerDiary)
 
+[SSAFY 자율 프로젝트 Gan-Da]
+
 ### 스터디
 [알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
 
