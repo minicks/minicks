@@ -77,10 +77,14 @@ I'm studying programming at **SSAFY** 6th since 2021.07.07.
 
 [SSAFY 자율 프로젝트 Gan-Da]
 
+<br>
+
 ### 스터디
 [알고리즘 스터디](https://github.com/mintropy/algorithm_pulzo)
 
 [CS 스터디](https://github.com/minicks/cs_pulzo)
+
+<br>
 
 ### 개인 공부
 [알고리즘 공부](https://github.com/minicks/-Algorithm_Study)
@@ -89,7 +93,9 @@ CS 공부
 
 [데이터 사이언스 스쿨 - 데이터분석](https://github.com/minicks/Datascience__school)
 
-#### 책
+<br>
+
+### 책
 [딥러닝 공부](https://github.com/minicks/Deeplearning)
 
 [1일 1로그 100일 완성 IT](https://github.com/minicks/1day1log) 
